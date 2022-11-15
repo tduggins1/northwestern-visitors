@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/northwestern-visitors/static/css/main.fc9a59c0.css",
+    "main.js": "/northwestern-visitors/static/js/main.2e7a1de6.js",
+    "static/js/787.ec265719.chunk.js": "/northwestern-visitors/static/js/787.ec265719.chunk.js",
+    "index.html": "/northwestern-visitors/index.html",
+    "main.fc9a59c0.css.map": "/northwestern-visitors/static/css/main.fc9a59c0.css.map",
+    "main.2e7a1de6.js.map": "/northwestern-visitors/static/js/main.2e7a1de6.js.map",
+    "787.ec265719.chunk.js.map": "/northwestern-visitors/static/js/787.ec265719.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc9a59c0.css",
+    "static/js/main.2e7a1de6.js"
+  ]
+}
